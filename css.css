@@ -1,0 +1,31 @@
+@import url(http://fonts.googleapis.com/css?family=Ubuntu);
+html {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
+body {
+	font-family: 'Ubuntu', sans-serif;
+	font-style: italic;
+	background: #c51129 url('zezena.png') no-repeat scroll right bottom;
+	height:100%;
+	margin: 0;
+	padding: 0;
+}
+#outta {
+	position:relative;
+	height: 100%;
+}
+#inna {
+	position:absolute;
+	top:50%;
+	height:10em;
+	margin-top:-5em;
+	width: 100%;
+}
+p {
+	color: white;
+	font-size:35px;
+	width: 470px;
+	margin: auto;
+}
